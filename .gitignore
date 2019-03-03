@@ -1,0 +1,10 @@
+# target folder
+target/
+
+RozetkaTest.iml
+
+# idea folder
+.idea/
+
+# allure folder
+.allure/
