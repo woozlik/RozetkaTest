@@ -14,7 +14,6 @@ public class PostShiftEmailAccount implements EmailAccount {
 
     PostShiftEmailAccount(CreatedAccount createdAccount){
         request = new Request();
-        System.out.println(createdAccount.getKey() + " keyyyyyy"); //todo remove
         this.createdAccount = createdAccount;
     }
 
